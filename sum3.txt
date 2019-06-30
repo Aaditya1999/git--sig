@@ -1,0 +1,7 @@
+git-project/
+new_file.txt
+new_file2.txt
+sum.txt
+sum2.txt
+sum3.txt
+tut.txt
